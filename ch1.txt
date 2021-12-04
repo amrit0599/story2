@@ -1,1 +1,2 @@
 this is story 2
+but in branching and exp mode
